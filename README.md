@@ -2,7 +2,7 @@
 
 **C++ systems builder based in Chengdu, China**
 
-Since 2017 I have focused on low-level development with a strong emphasis on performance-critical C++ code. Active in open source with consistent contributions across commits, pull requests and code reviews.
+A C++/Qt developer.
 
 ## Tech Stack
 
